@@ -1,0 +1,15 @@
+2023/06/13-00:59:01.382 5224 Reusing MANIFEST c:\Users\Yash\Documents\scrapping\tmp\Default\Local Storage\leveldb/MANIFEST-000001
+2023/06/13-00:59:01.384 5224 Recovering log #23
+2023/06/13-00:59:01.384 5224 (ignoring error) c:\Users\Yash\Documents\scrapping\tmp\Default\Local Storage\leveldb/000023.log: dropping 32761 bytes; Corruption: partial record without end(2)
+2023/06/13-00:59:01.387 5224 Level-0 table #25: started
+2023/06/13-00:59:01.395 5224 Level-0 table #25: 187918 bytes OK
+2023/06/13-00:59:01.400 5224 Delete type=0 #23
+2023/06/13-00:59:01.401 26e8 Compacting 4@0 + 1@1 files
+2023/06/13-00:59:01.417 26e8 Generated table #27@0: 9 keys, 187489 bytes
+2023/06/13-00:59:01.417 26e8 Compacted 4@0 + 1@1 files => 187489 bytes
+2023/06/13-00:59:01.417 26e8 compacted to: files[ 0 1 0 0 0 0 0 ]
+2023/06/13-00:59:01.418 26e8 Delete type=2 #14
+2023/06/13-00:59:01.418 26e8 Delete type=2 #16
+2023/06/13-00:59:01.418 26e8 Delete type=2 #19
+2023/06/13-00:59:01.418 26e8 Delete type=2 #22
+2023/06/13-00:59:01.418 26e8 Delete type=2 #25
